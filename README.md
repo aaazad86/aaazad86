@@ -14,3 +14,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+🔭 What I have learned till now ...
+
+🔭 I’m currently working on Web development and Digital Media at Ekushey ETV, a popular and first terrestrial privet TV station of Bangladesh.
+
+🌱 I’m currently learning ... 
+◉ Python
+◉ Data Science
+◉ AI
+
+💬 Ask me about digital media marketing, copyright law, content management and web programming etc. 
+
+📫 How to reach me: If you have any query aa.azad86@gmail.com
