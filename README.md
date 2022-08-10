@@ -14,16 +14,39 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-🔭 What I have learned till now ...
-
 🔭 I’m currently working on Web development and Digital Media at Ekushey ETV, a popular and first terrestrial privet TV station of Bangladesh.
 
-🌱 I’m currently learning ... 
-◉ Python
-◉ Data Science
-◉ AI
+🔭 What I have learned till now as a programmer ...
+<ul> 
+  <li> HTML5 </li>
+  <li> CSS3 </li>
+  <li> Bootstrap </li>
+  <li> Basic Java Script </li>
+  <li> PHP </li>
+  <li> Basic Laravel </li>
+  <li> WordPress & Other CMS Platform </li>
+  <li> Basic Python</li>
+</ul>
 
-💬 Ask me about digital media marketing, copyright law, content management and web programming etc. 
+🌱 I’m currently learning ... 
+<ul> 
+  <li> Python </li>
+  <li> Data Science </li>
+  <li> AI </li>
+  <li> PHP Laravel </li>
+</ul>
+  
+💬 Ask me about... 
+<ul> 
+  <li> digital media marketing </li>
+  <li> copyright law </li>
+  <li> content management </li>
+  <li> web programming </li>
+</ul>
+
+<ul> 
+  <li> </li>
+  <li> </li>
+</ul>
 
 📫 How to reach me: If you have any query aa.azad86@gmail.com
