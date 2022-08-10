@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+I am Al Amin Azad. Currently I’m working on Web development and Digital Media at Ekushey ETV, a popular and first terrestrial privet TV station of Bangladesh.
 <!--
 **aaazad86/aaazad86** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,7 +15,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-🔭 I’m currently working on Web development and Digital Media at Ekushey ETV, a popular and first terrestrial privet TV station of Bangladesh.
 
 🔭 What I have learned till now as a programmer ...
 <ul> 
@@ -26,6 +26,24 @@ Here are some ideas to get you started:
   <li> Basic Laravel </li>
   <li> WordPress & Other CMS Platform </li>
   <li> Basic Python</li>
+</ul>
+
+🔭 Professional skill currently what I have...
+
+<ul> 
+  <li> Web Master </li>
+  <li> Google Search Console Expert </li>
+  <li> Digital Media Marketing </li>
+  <li> Search Engine Optimization (SEO) </li>
+  <li> Social Media Page Promotion </li>
+  <li> Digital Media Advertisement</li>
+  <li> Instant Article </li>
+  <li> AdSense </li>
+  <li> Youtube Content Management</li>
+  <li> Copyright Law </li>
+  <li> Blogging </li>
+  <li> Article & Script writing </li>
+  <li> Video Editing </li>
 </ul>
 
 🌱 I’m currently learning ... 
